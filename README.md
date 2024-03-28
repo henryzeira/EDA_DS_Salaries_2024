@@ -42,9 +42,15 @@ A mediana é representada pela faixa 5 de $ 120,000.00 a $ 150,000.00.
 
 Gráfico 1: Histograma da variável salary\_in\_usd.
 
+<div align="center">
+
 ![image](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/831d15ee-8ee6-4392-9c8e-76d19ac19398)
 
+</div>
+
 Tabela 1: Estatísticas descritivas da variável salary\_in\_usd (unidade de $).
+
+<div align="center">
 
 |*salary\_in\_usd*||
 | :-: | :- |
@@ -63,6 +69,8 @@ Tabela 1: Estatísticas descritivas da variável salary\_in\_usd (unidade de $).
 |Soma|960554126|
 |Contagem|6599|
 |Nível de confiança(95,0%)|1712,070907|
+
+</div>
 
 Tabela 2: Faixas salariais e seus respectivos índices. 
 
@@ -89,7 +97,11 @@ Tabela 2: Faixas salariais e seus respectivos índices.
 
 Gráfico 2. Boxplot da variável salary\_in\_usd.
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 002](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/037a85b8-da45-4294-b637-3ac064fb0c6b)
+
+</div>
 
 ### Comparação das faixas salariais por ano
 Observa-se uma tendência de crescimento nas médias salariais ao decorrer dos anos. Embora haja poucos dados coletados do ano de 2024 em relação a 2023 (gráfico 4), a média de 2024 ainda foi mais alta. Uma análise mais justa seria se o período de pesquisa fosse igual para todos os anos. 
@@ -98,11 +110,19 @@ A variação mais significativa é do ano de 2021 para 2023, que foi um aumento 
 
 Gráfico 3: Médias salariais por ano 
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 003](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/d8a50268-519c-45b0-8f43-5bf6cbee38d1)
+
+</div>
 
 Gráfico 4: Distribuição da faixa salarial por ano
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 004](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/2e35b3c1-b771-4bbd-818c-cff4294a66f8)
+
+</div>
 
 ## **Dados sobre o trabalho na área**
 ### <a name="_hlk162394009"></a>Cargo
@@ -128,11 +148,19 @@ Tabela 3: Frequência do Cargo.
 
 Gráfico 5: Distribuição do Cargo.
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 005](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/73239d47-4363-469e-85bd-2928d1abd104)
+
+</div>
 
 Gráfico 6: Cargo x Remuneração
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 006](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/033818c1-1f09-4377-9160-be0c147424f6)
+
+</div>
 
 ### <a name="_hlk162394018"></a>Nível de Experiência
 A maioria dos profissionais da pesquisa possui **nível sênior de experiência**, representando **62%** da amostra. Isso sugere que há uma proporção significativa de profissionais com um alto nível de habilidades e experiência no campo. Isso pode refletir a natureza altamente técnica e especializada da área de dados, onde a experiência e a expertise são altamente valorizadas.
@@ -153,11 +181,19 @@ Tabela 4: Frequência do Nível de Experiência.
 
 Gráfico 7: Distribuição do Nível de Experiência.
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 007](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/8afd4726-4647-41cc-bded-14dd95558dc9)
+
+</div>
 
 Gráfico 8: Nível de Experiência x Remuneração
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 008](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/0af1eddb-5efe-4a62-99e2-ef40608fd1b6)
+
+</div>
 
 ### <a name="_hlk162394027"></a>Modelos de Trabalho
 A maioria dos profissionais da pesquisa trabalha no modelo **on-site (presencial)**, representando **58%** do conjunto de dados. Isso sugere que o trabalho presencial ainda é predominante neste campo. No entanto, o trabalho **remoto** também é bastante comum, representando **39%** da amostra. 
@@ -179,15 +215,27 @@ Tabela 5: Frequência do Modelo de Trabalho.
 
 Gráfico 9: Distribuição do Modelo de Trabalho.
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 009](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/311a18e1-b34e-42d1-8569-a88e124e78ac)
+
+</div>
 
 Gráfico 10: Modelo de Trabalho por Ano
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 010](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/fd4ebf55-4d71-473a-ae0e-e787cd99c452)
+
+</div>
 
 Gráfico 11: Modelo de Trabalho x Remuneração
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 011](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/e5c6ccf2-3e01-4ec6-a6a7-2796f2e7f899)
+
+</div>
 
 ### <a name="_hlk162394036"></a>Tipo de Emprego
 A grande maioria dos profissionais está empregada em tempo integral, representando **99%** da amostra. Isso sugere que o emprego em tempo integral é o arranjo de trabalho mais comum e preferido entre os profissionais.
@@ -206,11 +254,19 @@ Tabela 6: Frequência do Tipo de Emprego.
 
 Gráfico 12: Distribuição do Tipo de Emprego.
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 012](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/618cc29d-5087-4aae-a58b-d755e4415bf6)
+
+</div>
 
 Gráfico 13: Tipo de Emprego x Remuneração
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 013](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/e3d967bc-af16-4725-a17d-0c05bdc954cb)
+
+</div>
 
 ### **Dados demográficos**
 ## <a name="_hlk162394048"></a>Local da Residência
@@ -234,11 +290,19 @@ Tabela 7: Frequência do Local da Residência.
 
 Gráfico 14: Distribuição do Local da Residência. 
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 014](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/4f745dab-3079-4498-a660-410168cd178e)
+
+</div>
 
 Gráfico 15: Local da Residência x Remuneração
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 015](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/38023167-dfa4-4d8e-83c7-be0bfdd81204)
+
+</div>
 
 ### <a name="_hlk162394060"></a>Localização da Empresa
 Assim como na tabela de Local de Residência, a maioria das empresas do conjunto de dados está localizada na **América do Norte**, representando **85%** das empresas listadas. Isso reflete a concentração significativa de empresas da área de ciência de dados na América do Norte.
@@ -259,11 +323,19 @@ Tabela 8: Frequência da Localização da Empresa.
 
 Gráfico 16: Distribuição da Localização da Empresa
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 016](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/4b4c9ade-8d25-4025-980c-64ec72424f49)
+
+</div>
 
 Gráfico 17: Localização da Empresa x Remuneração 
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 017](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/657b53fe-0423-48bc-bb3b-deb3afd7db14)
+
+</div>
 
 ### <a name="_hlk162394071"></a>Tamanho da Empresa
 A maioria das empresas listadas na amostra é de **médio porte**, representando **89%** do total. Portanto a maioria dos profissionais da área de ciência de dados trabalha em empresas de médio porte.
@@ -283,11 +355,19 @@ Tabela 9: Frequência do Tamanho da Empresa.
 
 Gráfico 18: Distribuição do Tamanho da Empresa.
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 018](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/42d20725-6ec4-41ca-b479-7c5737825abf)
+
+</div>
 
 Gráfico 19: Tamanho da Empresa x Remuneração 
 
+<div align="center">
+
 ![Aspose Words e31dd834-f655-423c-b089-aefec48026eb 019](https://github.com/henryzeira/EDA_DS_Salaries_2024/assets/143764500/83f737e6-e7d9-4db8-9718-ce080cfcabb6)
+
+</div>
 
 ## Conclusão 
 
