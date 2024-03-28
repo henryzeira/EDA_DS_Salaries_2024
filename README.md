@@ -268,8 +268,8 @@ Gráfico 13: Tipo de Emprego x Remuneração
 
 </div>
 
-### **Dados demográficos**
-## <a name="_hlk162394048"></a>Local da Residência
+## **Dados demográficos**
+### <a name="_hlk162394048"></a>Local da Residência
 A maioria dos profissionais reside na **América do Norte**, representando **84%** da base. Isso indica que a América do Norte é uma região dominante em termos de residência dos profissionais da área de dados.
 
 Há uma disparidade da remuneração por local de residência. Profissionais na América do Norte têm a média salarial mais alta, seguidos por profissionais na Oceania, Europa e América do Sul. Profissionais na África e Ásia têm as médias salariais mais baixas.
